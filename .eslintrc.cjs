@@ -69,8 +69,7 @@ module.exports = {
         requirePragma: false,
         tabWidth: 2,
         useTabs: false,
-        embeddedLanguageFormatting: 'auto',
-        endOfLine: 'auto'
+        embeddedLanguageFormatting: 'auto'
       }
     ]
   }
